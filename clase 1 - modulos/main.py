@@ -19,7 +19,7 @@ tiene_prestamos = modulo1.validar_prestamo (ingresos_mensuales, bienes_raices)
 print(tiene_prestamos)
 
 
-lista_datos = [[100000, "SI"], [900000, "SI"], [20000000, "NO"]]
+#lista_datos = [[100000, "SI"], [900000, "SI"], [20000000, "NO"]]
 
-for elemento in lista_datos:
-  print(modulo1.validar_prestamo(elemento[0], elemento[1]))
+#for elemento in lista_datos:
+  #print(modulo1.validar_prestamo(elemento[0], elemento[1]))
