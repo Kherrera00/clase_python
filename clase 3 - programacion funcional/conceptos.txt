@@ -1,0 +1,15 @@
+-las funciones son entidades de 1er orden: como objetos
+-2 caracteristicas (funciones puras):
+    -produce el mismo resultado
+    -sin efectos colaterales: afecta variables globales
+-2 prioridades:
+    -procesamiento de listas
+    -recursion sobre iteracion
+-varibales son inmutables: se inicia y se asigna un valor (se inicia una vez y no se puede cambiar), si se require se debe de crear una copia y modificar
+
+    funciones: entidades de primer orden
+    funciones de alto orden: las pueden usar otras funciones, como si fueran objetos
+
+    funciones de alto orden: map, reduce, filter - algunas
+
+    
