@@ -16,3 +16,12 @@ lista_des_op = list(map(str.upper, lista_des)) #se convierte en una lista
 print(lista_des_op)
 
 #map recibe una funcion y una lista
+
+#filter - es una funcion booleana
+
+def long (x):
+    return len(x) >= 7
+
+lista_des_sh = list(filter(long, lista_des_op))
+
+print(lista_des_sh)

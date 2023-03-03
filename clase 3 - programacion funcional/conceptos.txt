@@ -12,4 +12,6 @@
 
     funciones de alto orden: map, reduce, filter - algunas
 
-    
+ejercicio
+
+lista del 1 al 100 - enteros - filtrar los que son primos, map coger numeros primor y hacer una operacion aritmetica
