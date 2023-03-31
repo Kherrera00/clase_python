@@ -1,0 +1,11 @@
+programacion orientada a objetos
+
+- clases
+- objetos
+-relaciones
+	-asociacion
+	-generacion
+		-herencia (clases abstractas) /Polimorfismo
+		-interfaces(ABC)              /Polimorfismo
+	*Patrones Arquitectonicos - MVC
+	*Patrones de Diseño
